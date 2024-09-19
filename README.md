@@ -1,2 +1,2 @@
-# index.html.
+# index.html
 my first html.website
